@@ -1,5 +1,5 @@
 {
-  "name": "excalidraw-clone",
+  "name": "collab-board",
   "private": true,
   "scripts": {
     "build": "turbo run build",
