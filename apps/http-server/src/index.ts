@@ -1,1 +1,3 @@
-console.log("Hello from http")
+import { appLogger } from "./logger"
+
+appLogger.info("index.ts");
